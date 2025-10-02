@@ -1,6 +1,5 @@
 ## Hi there 👋
-- 🌱 Learning how to code
-- ⚡ Cs student at the Open uni of Israel
+- I like computer stuff :)
 
 Thanks for visiting!
 <!--
