@@ -1,12 +1,9 @@
-## Hi there 👋
-- I like computer stuff :)
+# Hi there 👋, I'm Eyal
 
-Thanks for visiting!
-<!--
-**fistoook/fistoook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+## About Me
+- Passionate about coding and learning
+- I am just at the start of my journey
 
-- 🌱 Learning how to code
-- ⚡ Cs student at the Open uni of Israel
--->
+Thanks for visiting my profile! 🚀
