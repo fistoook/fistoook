@@ -1,9 +1,20 @@
 # Hi there 👋, I'm Eyal
 
-Welcome to my GitHub profile!  
+## things i like 👍
+- low level stuff  
+- algorithms that make my brain hurt in a good way  
+- naming variables and writing readmes (for me and just me)
+- yoghurt (very important dependency. very important.)
 
-## About Me
-- Passionate about coding and learning
-- I am just at the start of my journey
+## things i don’t like 👎
+- undefined behavior  
+- seg(MF!)faults at 3am  
+- when it compiles but doesn’t work
+- weird margin and spacing (idk where it came from..)
+  
+## stats
+- bugs written: many  
+- bugs fixed: some  
+- bugs understood: 3  
 
-Thanks for visiting my profile! 🚀
+may your pointers always be valid 🙏
