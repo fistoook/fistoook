@@ -12,7 +12,7 @@
 - when it compiles but doesn’t work
 - weird margin and spacing (idk where it came from..)
   
-## stats
+## stats📊
 - bugs written: many  
 - bugs fixed: some  
 - bugs understood: 3  
