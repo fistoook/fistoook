@@ -1,6 +1,6 @@
 # Hi, I’m Eyal 
 
-I’m love networking, Ethical Hacking, and well I do love software dev too :)
+I love networking, Ethical Hacking, and well I do love software dev too :)
 
 In addition to my pursuit of a B.sc, I run a homelab, write tools(which you can find here), 
 experiment with machine learning, and document my exeprience(where?)
